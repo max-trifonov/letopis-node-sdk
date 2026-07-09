@@ -7,10 +7,10 @@
   "homepage": "https://letopis.tech",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/max-trifonov/letopis-node.git"
+    "url": "git+https://github.com/max-trifonov/letopis-node-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/max-trifonov/letopis-node/issues"
+    "url": "https://github.com/max-trifonov/letopis-node-sdk/issues"
   },
   "keywords": ["letopis", "history", "audit-log", "nestjs"],
   "type": "module",

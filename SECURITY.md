@@ -9,7 +9,7 @@ with security fixes; there are no maintained release branches yet.
 
 Please **do not** open a public issue for a security report.
 
-Preferred: use [GitHub Security Advisories](https://github.com/max-trifonov/letopis-node/security/advisories/new)
+Preferred: use [GitHub Security Advisories](https://github.com/max-trifonov/letopis-node-sdk/security/advisories/new)
 for this repository — it opens a private channel with maintainers.
 
 Fallback: email **mp.trifonov@gmail.com** with a description of the

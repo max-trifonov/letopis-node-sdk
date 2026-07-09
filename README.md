@@ -1,6 +1,6 @@
 # letopis-node
 
-[![CI](https://github.com/max-trifonov/letopis-node/actions/workflows/ci.yml/badge.svg)](https://github.com/max-trifonov/letopis-node/actions/workflows/ci.yml)
+[![CI](https://github.com/max-trifonov/letopis-node-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/max-trifonov/letopis-node-sdk/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![npm](https://img.shields.io/npm/v/letopis-node.svg)](https://www.npmjs.com/package/letopis-node)
 
